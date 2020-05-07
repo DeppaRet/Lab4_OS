@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\bin\Debug\Lab4_OS.exe.config
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\bin\Debug\Lab4_OS.exe
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\bin\Debug\Lab4_OS.pdb
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\obj\Debug\Lab4_OS.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\obj\Debug\Lab4_OS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\obj\Debug\Lab4_OS.exe
+C:\Users\USER\Desktop\Lab4_OS\Lab4_OS\Lab4_OS\obj\Debug\Lab4_OS.pdb
