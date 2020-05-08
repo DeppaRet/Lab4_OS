@@ -39,7 +39,12 @@ namespace Lab4_OS
         startD[i] = Convert.ToInt32(tmp[i + 24]);
         endD[i] = Convert.ToInt32(tmp[i + 28]);
       }
-      Console.WriteLine("Всего ресурсов предоставлено: 4 4 4 4");
+      Console.WriteLine("Введите количество ресурсов (каждое значение вводить с новой строки): ");
+      for (int i = 0; i < k; i++)
+      {
+        free[i] = Check.GetInt();
+      }
+      Console.WriteLine("Всего ресурсов предоставлено: " + free[0] + " " + free[1] + " " + free[2] + " " + free[3]);
       Console.WriteLine("           Предоставлено ресурсов    Максимальная потребность");
       Console.WriteLine("Процесс A:          " + startA[0] + " " + startA[1] + " " + startA[2] + " " + startA[3] + "                   " + endA[0] + " " + endA[1] + " " + endA[2] + " " + endA[3]);
       Console.WriteLine("Процесс B:          " + startA[0] + " " + startA[1] + " " + startA[2] + " " + startA[3] + "                   " + endB[0] + " " + endB[1] + " " + endB[2] + " " + endB[3]);
